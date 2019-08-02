@@ -9,9 +9,11 @@
     echo"Umur Toni = $JtoniX<br>";
     echo"Umur Toni + Umur Tini = $JtiniToni<br>";
     echo"$Jtoni + $JtamaX - $JtiniTama = $JtiniToni<br>";
+    // biasakan nama variabel jangan a,b,c,x,y,z :)
     $x = $Jtama + $Jtoni;
     $y = $JtiniTama + $ $JtiniToni;
     $z = $y/$x;
     echo"$x X = $JtiniTama + $JtiniToni";
-    echo"X = $y : $x 
-
+    echo"X = $y : $x"; 
+?>
+    
